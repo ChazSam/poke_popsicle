@@ -11,7 +11,7 @@ body{
   overflow: hidden;
 }
 
-h1{
+header{
   color: yellow;
   font-size: 60px;
   text-align: center;
